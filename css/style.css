@@ -191,6 +191,13 @@
 }
 
 @media (max-width: 991.98px) {
+
+  .typed-text{
+    font-size: 1.2rem;
+    font-weight: 900;
+
+  }
+
   .hero-section {
     padding-top: 3rem;
     padding-bottom: 3rem;
@@ -215,6 +222,21 @@
 
 
 /* services styling start  */
+
+.our-work {
+  border-top: 2px solid;
+  padding-top: 50px;
+}
+
+.our-services {
+  padding-top: 50px;
+  border-top: 2px solid ;
+}
+.text-muted {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 :root {
   --accent: #00dcb3;
   --card-bg: #0f1114;
